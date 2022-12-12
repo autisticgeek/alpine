@@ -2,6 +2,7 @@ import {
   Box,
   Grid,
   List,
+  ListItem,
   ListItemText,
   Stack,
   Typography,
@@ -46,7 +47,9 @@ export default function TheLittleChapel() {
             "Photo CD included",
             "DVD included",
           ].map((li) => (
-            <ListItemText primary={li} />
+            <ListItem disablePadding>
+              <ListItemText primary={li} />
+            </ListItem>
           ))}
         </List>
       </Grid>

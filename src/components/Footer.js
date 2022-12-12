@@ -19,7 +19,7 @@ export default function Footer() {
         </Link>
       </Typography>
       <Typography>
-        <strong>Open By Appointment Only.</strong>
+        <strong style={{color: "#008000"}}>Open By Appointment Only.</strong>
       </Typography>
       <Link href="./policies.pdf" target="_blank">
         POLICIES

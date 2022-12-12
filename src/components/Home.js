@@ -52,7 +52,6 @@ export default function Home() {
             </ListItem>
           ))}
         </List>
-        <hr />
       </Grid>
       <Grid
         className="sidePictures"

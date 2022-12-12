@@ -1,5 +1,12 @@
-.sidePictures {
+hr {
+    background-image: url('./../public/images/curly.gif');
+    background-position: center;
+    border: 0;
+    height: 28px;
+    background-repeat: no-repeat;
+}
 
+.sidePictures {
     justify-content: space-around;
     background-image: url('./../public/images/line.gif');
     background-position: right;
