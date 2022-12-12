@@ -1,0 +1,8 @@
+.sidePictures {
+
+    justify-content: space-around;
+    background-image: url('./../public/images/line.gif');
+    background-position: right;
+    background-repeat: repeat-y;
+    padding-right: 26px;
+}
