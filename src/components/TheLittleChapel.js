@@ -12,10 +12,11 @@ import React from "react";
 export default function TheLittleChapel() {
   return (
     <Grid item xs container spacing={2}>
-      <Grid item xs>
-        <Typography variant="h3" component="h1">
+      <Grid item xs={12}><Typography variant="h3" component="h1">
           The Little Chapel
-        </Typography>
+        </Typography></Grid>
+      <Grid item xs>
+        
         <Typography>
           Intimate and romantic, the little Chapel seats up to 12 guests in 6
           small pews. Side sconces and tray lighting add a soft ambience to the

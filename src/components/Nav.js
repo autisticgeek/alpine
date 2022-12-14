@@ -28,7 +28,7 @@ export default function Nav() {
       </ListItemButton>
       <ListItemButton
         component="a"
-        onClick={() => navigate("/chaoel")}
+        onClick={() => navigate("/chapel")}
         sx={btnStyle}
       >
         <ListItemText primary="The Chapel" />

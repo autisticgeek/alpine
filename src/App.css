@@ -13,3 +13,8 @@ hr {
     background-repeat: repeat-y;
     padding-right: 26px;
 }
+
+.firstLetter {
+    color: #008000;
+    font-size: larger;
+}

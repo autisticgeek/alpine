@@ -46,7 +46,7 @@ export default function Home() {
           ].map((li) => (
             <ListItem disablePadding>
               <ListItemText>
-                <span style={{ color: "#008000", fontSize:"larger" }}>{li[0]}</span>
+                <span className="firstLetter">{li[0]}</span>
                 {li.slice(1, li.length)}
               </ListItemText>
             </ListItem>
