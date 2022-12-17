@@ -10,7 +10,7 @@ export default function Vows() {
         </Typography>
       </Grid>
       <Grid item>
-        <Typography>May NOT be reproduced or otherwise copied or used without expressed written permission of AWC. Permission I don'st have yet.😊</Typography>
+        <Typography>May NOT be reproduced or otherwise copied or used without expressed written permission of AWC. Permission I don't have yet.😊</Typography>
       </Grid>
     </Grid>
   );

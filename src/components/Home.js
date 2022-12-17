@@ -6,7 +6,6 @@ import {
   ListItemText,
   Typography,
 } from "@mui/material";
-import { borderRight } from "@mui/system";
 import React from "react";
 
 export default function Home() {
